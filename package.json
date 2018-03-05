@@ -9,7 +9,7 @@
     "bluebird": "3.0.6",
     "csv": "0.4.6",
     "jsonfile": "2.2.3",
-    "mongodb": "2.1.1",
+    "mongodb": "2.2.13",
     "node-uuid": "1.4.7",
     "path-extra": "3.0.0",
     "underscore": "1.8.3",
